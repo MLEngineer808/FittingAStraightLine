@@ -1,2 +1,2 @@
-# FittingAStraightLine
-Let's talk basics - fitting a straight line to two data points
+# Liniear Regression 
+The repo contains lab exersises from Machine Learning course: Liniar Regression from Coursera offered by DeepLearning.ai
